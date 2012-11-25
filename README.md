@@ -5,4 +5,4 @@ This repo contains the details of the [Amahi docs web site](http://docs.amahi.or
 
 Please submit changes as pull requests. See the [Notes](NOTES.md) file for details on how these docs work.
 
-[![Build Status](https://secure.travis-ci.org/cpg/docs.png)](http://travis-ci.org/cpg/amahi-docs)
+[![Build Status](https://secure.travis-ci.org/cpg/docs.png)](http://travis-ci.org/amahi/docs)

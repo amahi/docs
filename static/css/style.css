@@ -1,0 +1,66 @@
+/*---style.css---
+  ---docs.amahi.org */
+
+.inner {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 960px;
+}
+
+
+
+/*--- Responsive footer --- */
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) { 
+	#foot-nav li{
+	list-style-type: none !important;
+	display: block !important;
+	margin:0;
+	padding:.5em;
+	}
+
+	.first {
+	text-align: left;
+	}
+
+	.last {
+	text-align: left;
+	}
+	ul.nav.nav-pills li{
+	display: block !important;
+	font-size: 1.6em;
+	text-align: left;
+	margin-bottom: 10px;
+	}
+}
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px){
+
+	#foot-nav li{
+	list-style-type: none !important;
+	display: inline !important;
+	margin:0;
+	padding:.5em;
+	}
+
+
+	ul.nav.nav-pills li{
+	position: relative;
+	top: 5px;
+	}
+
+	.first {
+	text-align: left;
+	padding: 8px 0 8px 0;
+	margin: 2px 0 2px 0;
+	}
+
+	.last {
+	float: right;
+	padding: 8px 0 8px 0;
+	margin: 2px 0 2px 0;
+	text-align: right;
+	}
+
+}

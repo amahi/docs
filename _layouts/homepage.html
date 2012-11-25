@@ -1,0 +1,45 @@
+{% include header.html %}
+<div class="row-fluid">
+	<div class="span3 Module sidebar">
+		<div class="well" style="padding: 8px 0px;">
+			<ul class="nav nav-list">
+				<li{% if page.current == 'index' %} class="active"{% endif %}>
+				<a href="index.html">Overview</a>
+				</li>
+				<li{% if page.current == 'Requirements' %} class="active"{% endif %}>
+				<a href="requirements.html">Requirements</a>
+				</li>
+				<li{% if page.current == 'releases' %} class="active"{% endif %}>
+				<a href="releases.html">Releases</a>
+				<ul>
+					<li><a href="ubuntu-12.html">Ubuntu 12.04</a></li>
+					<li><a href="fedora-14.html">Fedora 14</a></li>
+				</ul>
+				</li>
+				<li{% if page.current == 'troubleshooting' %} class="active"{% endif %}>
+				<a href="troubleshooting.html">Troubleshooting</a>
+				</li>
+				<li{% if page.current == 'support' %} class="active"{% endif %}>
+				<a href="support.html">Support</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+  <div class="span9">
+    {{ content }}
+
+    <ul class="pager">
+    {% if page.previous_url and page.previous %}
+        <li class="previous">
+            <a href="{{ page.previous_url }}">&larr; {{ page.previous }}</a>
+        </li>
+    {% endif %}
+    {% if page.next_url and page.next %}
+        <li class="next">
+            <a href="{{ page.next_url }}">{{ page.next }} &rarr;</a>
+        </li>
+    {% endif %}
+    </ul>
+  </div>
+{% include footer.html %}

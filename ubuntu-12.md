@@ -10,11 +10,11 @@ title: Install Amahi on Ubuntu 12.04.1 LTS
 * Boot the installation machine from the Ubuntu installation CD. See the [requirements](requirements.html)
 * Remember: do **not select and install** additional packages while installing Ubuntu. Amahi requires the default
 
-### Desktop install
+### Desktop install (GUI)
 * Install Ubuntu Desktop until you **get to the desktop**.
 * See this article for <a href="http://netgator.blogspot.com/2012/04/ubuntu-1204-installation-process-slide.html" target="_blank">for illustrated instructions on installing Ubuntu Desktop</a>.
 
-### Server install
+### Server install (headless)
 * Install Ubuntu Server until you reboot and are at the command line.
 * See this detailed guide for <a href="http://rbgeek.wordpress.com/2012/03/26/step-by-step-tutorial-to-install-ubuntu-server-12-04/" target="_blank">for installing Ubuntu Server</a>.
 * Note that there is no support for a Desktop at the console. It's possible via [VNC](http://www.amahi.org/apps/vnc)

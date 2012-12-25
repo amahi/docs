@@ -36,8 +36,8 @@ title: Install Amahi on Ubuntu 12.04.1 LTS
 	<a href="static/images/u12/01-wget.png" class="fancybox centered" title="Get the Amahi Installer"><img src="static/images/u12/01-wget-thumb.png" alt="Get the Amahi Installer"/></a>
 
 * The first command gets the installer and the second one starts the Amahi install. The install script will ask for two things
-	1. Your **password**. Some of it runs as an administrator user
 	1. Your **install code**. You get this from your [Amahi control panel](https://www.amahi.org/users)
+	1. Your **password**. Some of it runs as an administrator user
 
 	<a href="static/images/u12/02-install-amahi.png" class="fancybox centered" title="Run the Amahi Installer"><img src="static/images/u12/02-install-amahi-thumb.png" alt="Run the Amahi Installer"/></a>
 

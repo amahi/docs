@@ -16,7 +16,7 @@ title: Install Amahi on Ubuntu 12.04.1 LTS
 
 ### Server install (headless)
 * Install Ubuntu Server until you reboot and are at the command line.
-* See this detailed guide for <a href="http://rbgeek.wordpress.com/2012/03/26/step-by-step-tutorial-to-install-ubuntu-server-12-04/" target="_blank">for installing Ubuntu Server</a>.
+* See this detailed guide for <a href="http://ubuntuserverguide.com/2012/05/how-to-install-ubuntu-server-12-04-lts-precise-pangolin-included-screenshot.html" target="_blank">installing Ubuntu Server</a>.
 * Note that there is no support for a Desktop at the console. It's possible via [VNC](http://www.amahi.org/apps/vnc)
 
 # 2. Install Amahi

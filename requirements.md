@@ -12,8 +12,9 @@ These are the requirements to install your Amahi Server.
 	* 1GHz CPU
 	* 4GB Disk, and
 	* 512MB RAM
-	* ... The more the better, of course!
+	* ... The more the better, of course! 
 
+    
 1. Software
 
 	**Ubuntu 12.04.1 LTS** bootable CD or DVD
@@ -21,8 +22,18 @@ These are the requirements to install your Amahi Server.
 	* 32-bits or 64-bits version
 	* Desktop or server version
 	* Obtain it from the download mirrors or from the torrents
-	* Other versions, such as Kubuntu, Edubuntu, USB etc., are strongly discouraged, and not supported
+	* Other versions, such as Kubuntu, Edubuntu, USB etc., are strongly discouraged, and not supported    
+    
 
+1. Your Amahi install code
+
+	You can get your *free* Amahi install code by:
+	* Making an account at [amahi.org](http://amahi.org) 
+	* Click *Start building a new HDA*     
+
+	Forgot your install code?  Find it at your [Amahi control panel](https://www.amahi.org/users).  
+       
+        
 1. An internet connection during install
 
 	NOTE: Only the first ethernet card `eth0` is supported out of the box.

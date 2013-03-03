@@ -17,7 +17,7 @@ title: Install Amahi on Ubuntu 12.04.1 LTS
 ### Server install (headless)
 <span class="label label-important">WARNING</span>
 <div class="alert alert-error">
-SERVER INSTALL <a href="http://bugs.amahi.org/issues/1015">DOES NOT CURRENTLY WORK</a> &mdash; DO NOT USE SERVER INSTALL!
+SERVER INSTALL DOES NOT CURRENTLY WORK. <a href="http://bugs.amahi.org/issues/1015">USE THIS WORK-AROUND</a> IF YOU MUST.
 </div>
 
 * Install Ubuntu Server until you reboot and are at the command line.

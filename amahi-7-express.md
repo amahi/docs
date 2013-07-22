@@ -5,7 +5,7 @@ title: Install Amahi 7 Express Disc
 # 1. Download Amahi
 * Download amahi and burn it to a disc
 * Boot your system from that disc
-<a href="static/images/amahi-7-express/00-boot.png" class="fancybox centered" title="Boot Amahi from the Disc">
+  <a href="static/images/amahi-7-express/00-boot.png" class="fancybox centered" title="Boot Amahi from the Disc">
 
 # 2. Customize Your Settings and Install
 * Set up the language

@@ -4,6 +4,7 @@ title: Install Amahi 7 Express Disc
 ---
 # 1. Download Amahi to a Disc
 * Download amahi and burn it to a disc
+
 # 2. Customize Your Settings and Install
 * Boot your system from the Amahi disc you downloaded
 * Set up the language
@@ -16,3 +17,15 @@ title: Install Amahi 7 Express Disc
 * Remember to make the user an administrator ![](static/images/tip.png)
 * The installation may be quick or take some time, depending on the speed of your hardware ![](static/images/tip.png)
 * Enter your Amahi install code for this system. You should have your install code from amahi.org ![](static/images/tip.png)
+* The networking settings you previously set for this system in the Amahi Control Panel should match what you have in your network ![](static/images/tip.png)
+* You will be asked to reboot. The Operating System will then boot from the hard drive, to a text console.
+* Amahi will fully configure in the background and reboot by itself one last time, this time it will boot with the static IP address you set at Amahi.org
+
+# 3. Initialize and Complete Install
+* It is recommended for best operation that you turn off all other DHCP servers in your network. Then reboot all the systems in your network so that they get their network settings from your new Amahi server ![](static/images/tip.png)
+* Open an Internet browser from a client machine and type `http://hda/` in the URL box
+* This will bring you to an initialization web page for your system
+* If HDA does not work, you could try the IP address of your system to get to the initialization page ![](static/images/tip.png)
+* You will be asked to enter a username and password. Make sure you use the same capitalization here that you used for your username and password earlier
+
+Start setting up your users, your shares, install some apps from `http://hda` and enjoy!!!

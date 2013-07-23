@@ -3,8 +3,7 @@ layout: homepage
 title: Install Amahi 7 Express Disc
 ---
 # 1. Download Amahi Express Disc
-* <a href="https://wiki.amahi.org/index.php/Express_CD">Download Amahi</a> 
-and burn it to a disc
+* (Download Amahi](https://wiki.amahi.org/index.php/Express_CD) and burn it to a disc
 * Boot your system from that disc
 
 <span class="label label-important">WARNING</span>

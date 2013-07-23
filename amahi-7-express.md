@@ -6,7 +6,7 @@ title: Install Amahi 7 Express Disc
 * Download amahi and burn it to a disc
 * Boot your system from that disc
 
-  <span class="label label-important">WARNING</span>
+<span class="label label-important">WARNING</span>
 <div class="alert alert-error">
 It’s **very important** to understand that in the Express Disc installation, the first available drive will be **completely erased unless you change the default storage settings!**
 </div>
@@ -24,7 +24,8 @@ It’s **very important** to understand that in the Express Disc installation, t
 
   <a href="static/images/amahi-7-express/02-storage-details.png" class="fancybox centered"><img src="static/images/amahi-7-express/04-destination-thumb.png" alt="Installation destination specs" /></a>
 
-  <span class="label label-important">WARNING</span>
+
+<span class="label label-important">WARNING</span>
 <div class="alert alert-error">
 It’s **very important** to understand that in the Express Disc installation, the first available drive will be **completely erased unless you change the default storage settings!**
 </div>

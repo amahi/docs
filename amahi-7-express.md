@@ -6,8 +6,9 @@ title: Install Amahi 7 Express Disc
 <div class="alert alert-error">
 It’s very important to understand that in the Express Disc installation, the first available drive WILL BE COMPLETELY ERASED unless you change the default storage settings!
 </div>
-# 1. Download Amahi Express Disc
-* [Download the Amahi 7 Express Disc](https://wiki.amahi.org/index.php/Express_CD) and burn it to a DVD
+# 1. Download Amahi Express
+* The process of installing Amahi via the Express disc should take you 5 minutes in fast hardware to 15 or 10 minutes in older hardware and it's documented below in a fair amount of detail.
+* Download the [Amahi 7 Express Disc](https://wiki.amahi.org/index.php/Express_CD) and burn it to a DVD
 * NOTE 1 -- THIS LOCATION MAY CHANGE WHEN WE RELEASE
 * NOTE 2 -- ADD LINK TO THE INSTALL TUTORIAL VIDEO HERE
 * Boot your system from that DVD
@@ -49,9 +50,15 @@ It’s very important to understand that in the Express Disc installation, the f
   <a href="static/images/amahi-7-express/08-initialization.png" class="fancybox centered"><img src="static/images/amahi-7-express/09-initialization-thumb.png" alt="Amahi Initialization" /></a>
 
 * If `http://hda/` does not work , you could try the IP address of your system to get to the initialization page. This may be an indication troubleshooting may be needed. Make sure the settings in the control panel are what the network expects. Otherwise go through the [Networking Troubleshooter](http://www.amahi.net) (top right).
+
 * This page will ask you to re-enter the username, password and password confirmation, to initialize the system. Make sure you use the same capitalization here that you used for your username and password earlier
 
-* Start setting up your users, your shares, install some apps and enjoy!
+* This page will take you to your server's Dashboard! Start setting up your users, shares, install some apps from Amahi's [app store](https://www.amahi.org/apps) and enjoy!
+
+  <a href="static/images/amahi-7-express/10-dashboard.png" class="fancybox centered"><img src="static/images/amahi-7-express/10-dashboard-thumb.png" alt="Amahi Dashboard" /></a>
+  <a href="static/images/amahi-7-express/11-users.png" class="fancybox centered"></a>
+  <a href="static/images/amahi-7-express/12-shares.png" class="fancybox centered"></a>
+
 
 NOTE -- add pointer to other video tutorials
 

@@ -48,9 +48,10 @@ It’s very important to understand that in the Express Disc installation, the f
 
   <a href="static/images/amahi-7-express/08-initialization.png" class="fancybox centered"><img src="static/images/amahi-7-express/09-initialization-thumb.png" alt="Amahi Initialization" /></a>
 
-* If `http://hda/` does not work , you could try the IP address of your system to get to the initialization page. This may be an indication the install did *not* go well, however. ![](static/images/tip.png)
-* If you have networking trouble, make sure the settings in the control panel are what the network expects. Otherwise you can try the [Networking Troubleshooter](http://www.amahi.net).
-* You will be asked to enter a username and password. Make sure you use the same capitalization here that you used for your username and password earlier
+* If `http://hda/` does not work , you could try the IP address of your system to get to the initialization page. This may be an indication troubleshooting may be needed. Make sure the settings in the control panel are what the network expects. Otherwise go through the [Networking Troubleshooter](http://www.amahi.net) (top right).
+* This page will ask you to re-enter the username, password and password confirmation, to initialize the system. Make sure you use the same capitalization here that you used for your username and password earlier
 
-* Start setting up your users, your shares, install some apps and enjoy!!!
+* Start setting up your users, your shares, install some apps and enjoy!
+
+NOTE -- add pointer to other video tutorials
 

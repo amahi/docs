@@ -20,9 +20,7 @@ It’s very important to understand that in the Express Disc installation, the f
 
   <a href="static/images/amahi-7-express/01-destination.png" class="fancybox centered"><img src="static/images/amahi-7-express/04-destination-thumb.png" alt="Installation destination" /></a>
 
-* Make sure you configure the installation options
-
-  <a href="static/images/amahi-7-express/02-storage-details.png" class="fancybox centered"><img src="static/images/amahi-7-express/04-destination-thumb.png" alt="Installation destination specs" /></a>
+  <a href="static/images/amahi-7-express/02-storage-details.png" class="fancybox centered"><img src="static/images/amahi-7-express/02-storage-details-thumb.png" alt="Installation destination specs" /></a>
 
 
 It’s **very important** to understand that in the Express Disc installation, the first available drive will be **completely erased unless you change the default storage settings!**

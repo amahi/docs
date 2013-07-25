@@ -58,10 +58,7 @@ You can see a screencast of the process shown on this page at the [Amahi 7 Expre
 * This page will take you to your server's Dashboard! Start setting up your users, shares, install some apps from Amahi's [app store](https://www.amahi.org/apps) and enjoy!
 
   <a href="static/images/amahi-7-express/10-dashboard.png" class="fancybox centered"><img src="static/images/amahi-7-express/10-dashboard-thumb.png" alt="Amahi Dashboard" /></a>
-  <a href="static/images/amahi-7-express/11-users.png" class="fancybox centered"></a>
-  <a href="static/images/amahi-7-express/12-shares.png" class="fancybox centered"></a>
-
-
+ 
 
 
 You can find other video screencasts at the [Amahi Videos](https://www.amahi.org/videos) page.

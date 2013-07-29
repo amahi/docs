@@ -1,9 +1,9 @@
 # Pre-requisites
  * bundler (to install it in Fedora `yum install rubygem-bundler`)
- * 
+ * run `bundle install` to install all the things needed to compile the markdown to HTML
 
 # General rules
- * make whatever changes you want
+ * make whatever changes you want to do and save them
  * run `make` (it should run `jekyll` and generate the site inside `_site/`)
  * open `_site/index.html` with a web browser to see how the site looks
  * Commit to master first, always

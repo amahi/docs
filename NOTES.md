@@ -1,9 +1,18 @@
+# Pre-requisites
+ * bundler (to install it in Fedora `yum install rubygem-bundler`)
+ * 
 
 # General rules
- * make changes
- * make and open _site/index.html to see how the site looks
- * Commit to master first
- * make publish to push it out to gh-pages after it's committed to master
+ * make whatever changes you want
+ * run `make` (it should run `jekyll` and generate the site inside `_site/`)
+ * open `_site/index.html` with a web browser to see how the site looks
+ * Commit to master first, always
+ * Once you are happy, push your master branch
+
+# To Publish to the live site
+Do this with permission only and always after review. Needless to say, always do this after it's committed to master.
+
+To publish to the live docs site, run `make publish` to push it out to gh-pages. Within a few seconds it will be in the public site
 
 # Reference links:
 

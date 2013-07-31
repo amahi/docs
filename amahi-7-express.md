@@ -7,7 +7,7 @@ title: Install Amahi 7 Express Disc
 It’s very important to understand that in the Express Disc installation, the first available drive WILL BE COMPLETELY ERASED unless you change the default storage settings!
 </div>
 
-You can see a screencast of the install process in this page at the [Amahi 7 Express Install video](https://www.amahi.org/videos/amahi-7-express-install) page.
+You can see a screencast of the install process in this page at the [Amahi 7 Express Install video](https://www.amahi.org/video/amahi-7-express-install) page.
 
 # 1. Download Amahi Express
 * The process of installing Amahi via the Express disc should take you 5 minutes in fast hardware (e.e. i5/i7 with SSD) to 15 or 10 minutes in older hardware and it's documented below in detail.

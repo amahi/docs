@@ -2,12 +2,16 @@
 layout: homepage
 title: Install Amahi 7 Express Disc
 ---
+
+# 1. Important Notes
+
 <span class="label label-important">WARNING</span>
 <div class="alert alert-error">
-It’s very important to understand that in the Express Disc installation, the first available drive WILL BE COMPLETELY ERASED unless you change the default storage settings!
+In this Amahi Express installation, the first available drive WILL BE COMPLETELY ERASED unless you change the default storage settings!
 </div>
 
-You can see a screencast of the install process in this page at the [Amahi 7 Express Install video](https://www.amahi.org/video/amahi-7-express-install) page.
+* Upgrading from the previous Amahi releases (both Ubuntu- or Fedora-based) to Amahi 7 is currently **not supported**.
+* A screencast of the process described below is available in the [Amahi 7 Express Install video](https://www.amahi.org/video/amahi-7-express-install).
 
 # 1. Download Amahi Express
 * The process of installing Amahi via the Express disc should take you 5 minutes in fast hardware (e.e. i5/i7 with SSD) to 15 or 10 minutes in older hardware and it's documented below in detail.

@@ -5,9 +5,8 @@ title: Install Fedora
 
 # Important Notes
 
-1. The latest release for Amahi is based on [Ubuntu 12.04](ubuntu-12.html). Installing on Fedora 14 is possible but **not supported** any more. This installation method is in maintenance mode.
-
-2. These old instructions are being migrated here and are available in the [main site instructions](http://www.amahi.org/instructions) with images and more details.
+* The latest release is [Amahi 7 Express Disc](amahi-7-express.html). It's based on Fedora 19, but we do not support upgrading from the Amahi 6 Fedora 14 release.
+* This installation method is in maintenance mode.
 
 # Install Fedora
 * Boot the installation machine from the Fedora installation DVD

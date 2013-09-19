@@ -6,7 +6,7 @@ title: Install Amahi on Ubuntu 12.04.2 LTS
 * Make sure you have properly configured a profile in your [Amahi control panel](https://www.amahi.org/users)
 * Do **not** use an existing Ubuntu system: Amahi **cannot be uninstalled**.
 * Choose if you want to use the Desktop (GUI) version of Ubuntu or the Server version (no desktop after install).
-* Download the Ubuntu 12.04.2 LTS CD from the [Ubuntu 12.04.2 LTS page on old-releases.ubuntu.com](http://old-releases.ubuntu.com/releases/precise/) page according to your choice (*Amahi has been tested to work on 12.04.2*. Some users have experienced an error installing on 12.04.3.)
+* Download the Ubuntu 12.04.2 LTS CD from the [Ubuntu 12.04.2 LTS page on old-releases.ubuntu.com](http://old-releases.ubuntu.com/releases/precise/) page according to your choice (Amahi has been tested to work on 12.04.2. Some users have experienced an error installing on 12.04.3.)
 * Boot the installation machine from the Ubuntu installation CD. See the [requirements](requirements.html)
 * Remember: do **not select and install** additional packages while installing Ubuntu. Amahi requires the default
 

@@ -5,8 +5,11 @@ title: Install Fedora
 
 # Important Notes
 
-* The latest release is [Amahi 7 Express Disc](amahi-7-express.html). It's based on Fedora 19, but we do not support upgrading from the Amahi 6 Fedora 14 release.
-* This installation method is in maintenance mode.
+<div class="alert alert-error">
+<strong>WARNING: This Amahi release is unsupported at this time! Please use a supported release!
+The latest release is Amahi 7 Express.
+</strong>
+</div>
 
 # Install Fedora
 * Boot the installation machine from the Fedora installation DVD

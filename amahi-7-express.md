@@ -20,17 +20,29 @@ In this Amahi Express installation, the first available drive WILL BE COMPLETELY
 
   <a href="static/images/amahi-7-express/00-boot.png" class="fancybox centered"><img src="static/images/amahi-7-express/00-boot-thumb.png" alt="Boot Amahi" /></a>
 
-# 2. Customize Your Settings and Install
+# 2. Customize Your Settings and Partition
 * Set up the language, keyboard layout, the date and time settings
 * Select your storage settings to match the destination where you want Amahi to be installed
 
   <a href="static/images/amahi-7-express/01-destination.png" class="fancybox centered"><img src="static/images/amahi-7-express/04-destination-thumb.png" alt="Installation destination" /></a>
 
 
-* It’s **very important** to understand that in the Express Disc installation, the first available drive will be **completely erased** unless you change the default storage settings!
+
+
+* <span class="label label-important">WARNING</span> It’s important to understand that in the Express Disc installation, the first available drive will be **completely erased** unless you change the default storage settings!
 
   <a href="static/images/amahi-7-express/02-storage-details.png" class="fancybox centered"><img src="static/images/amahi-7-express/02-storage-details-thumb.png" alt="Installation destination specs" /></a>
 
+* Parititoning and storage configuration is of **critical importance** and can be complex, unfortunately
+* The default setup in Fedora is to make a `/boot` partition that is small and put a lot of the space in `/home`. Most people do not want this
+* You want the most amount of space in `/var/hda/files` because the shares space will be drawn from here
+* The Amahi team does not recommend using <a href="https://www.amahi.org/faq/does-amahi-support-lvm">LVM</a> partitioning, but rather a plain partitioning
+* Here is an overview of installing <a href="https://wiki.amahi.org/index.php/Install_without_LVM">without LVM</a>
+* If you plan to add new separate drives from the OS drive, you should mount them in `/var/hda/files/drives/drive1`, `drive2` etc.
+* If you plan to use <a href="https://wiki.amahi.org/index.php/Greyhole">Greyhole</a>, there is a concept of the <a href="https://wiki.amahi.org/index.php/Greyhole_landing_zone">Greyhole landing zone</a> (LZ). THe LZ is typically it's the root directory `/` and holds the data **in transit** until it goes to the destination in Greyhole partitions. This can often limit how much data you can transfer in one shot.
+* In case you need to (after install), here are directions on how to <a href="https://wiki.amahi.org/index.php/Moving_landing_zone">move the LZ</a>, to another (presumably larger) partition.
+
+# 3. Install
 
 * When your settings are ready, click _Begin Installation_
 * Create a user and make it administrator (a root password is optional)
@@ -46,7 +58,7 @@ In this Amahi Express installation, the first available drive WILL BE COMPLETELY
 * You will be asked to reboot. The Operating System will then boot from the hard drive, to a text console.
 * Amahi will fully configure in the background and reboot by itself **one last time**. This time it will boot with the static IP address you set up in the Amahi control panel.
 
-# 3. Initialize Amahi and start using it
+# 4. Initialize Amahi and start using it
 
 * It is recommended for best operation that you turn off all other DHCP servers in your network. Then reboot all the systems in your network so that they get their network settings from your new Amahi server ![](static/images/tip.png)
 * Open an Internet browser from a client machine and type `http://hda/` in the URL box

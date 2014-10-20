@@ -6,6 +6,7 @@ title: Install Amahi 7 Express Disc
 # 1. Important Notes
 
 <span class="label label-important">WARNING</span>
+
 <div class="alert alert-error">
 In this Amahi Express installation, the first available drive WILL BE COMPLETELY ERASED unless you change the default storage settings!
 </div>

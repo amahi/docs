@@ -1,6 +1,6 @@
 
 all:
-	bundle exec jekyll build --safe
+	bundle exec jekyll build
 	@echo "Now: open _site/index.html"
 
 publish: all

@@ -16,6 +16,7 @@ In this Amahi Express installation, the first available drive WILL BE COMPLETELY
 
 # 1. Download Amahi Express
 * The process of installing Amahi via the Express disc should take you 5 minutes in fast hardware (e.e. i5/i7 with SSD) to 15 or 10 minutes in older hardware and it's documented below in detail.
+* If your system has more than one NIC (network interface), please disable **all but one** of them (usually in the BIOS)
 * Download the [Amahi 7 Express Disc](https://wiki.amahi.org/index.php/Express_CD) and burn it to a DVD
 * Boot your system from that DVD
 

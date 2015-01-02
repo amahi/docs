@@ -35,14 +35,8 @@ In this Amahi Express installation, the first available drive WILL BE COMPLETELY
 
   <a href="static/images/amahi-7-express/02-storage-details.png" class="fancybox centered"><img src="static/images/amahi-7-express/02-storage-details-thumb.png" alt="Installation destination specs" /></a>
 
-* Parititoning and storage configuration is of **critical importance** and can be complex, unfortunately
-* The default setup in Fedora is to make a `/boot` partition that is small and put a lot of the space in `/home`. Most people do not want this. Remove the `/home` partition for best results
-* You want the most amount of space in `/var/hda/files` because the shares space will be drawn from here
-* The Amahi team does **not** recommend using <a href="https://www.amahi.org/faq/does-amahi-support-lvm">LVM</a> partitioning, but rather a plain partitioning
-* Here is an overview of installing <a href="https://wiki.amahi.org/index.php/Install_without_LVM">without LVM</a>
-* If you plan to add new separate drives from the OS drive, you should mount them in `/var/hda/files/drives/drive1`, `drive2` etc. We recomend you do that later after the system is up and running successfully
-* If you plan to use <a href="https://wiki.amahi.org/index.php/Greyhole">Greyhole</a>, there is a concept of the <a href="https://wiki.amahi.org/index.php/Greyhole_landing_zone">Greyhole landing zone</a> (LZ). THe LZ is typically it's the root directory `/` and holds the data **in transit** until it goes to the destination in Greyhole partitions. This can often limit how much data you can transfer in one shot.
-* In case you need to (after install), here are directions on how to <a href="https://wiki.amahi.org/index.php/Moving_landing_zone">move the LZ</a>, to another (presumably larger) partition.
+* Parititoning and storage configuration is of **critical importance** and can be complex, unfortunately.  The Amahi team recommends following this [hard drive partitioning scheme](https://wiki.amahi.org/index.php/Hard_Drive_Partition_Scheme). 
+
 
 # 3. Install
 

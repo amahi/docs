@@ -35,8 +35,8 @@ In this Amahi Express installation, the first available drive WILL BE COMPLETELY
 
   <a href="static/images/amahi-7-express/02-storage-details.png" class="fancybox centered"><img src="static/images/amahi-7-express/02-storage-details-thumb.png" alt="Installation destination specs" /></a>
 
-* Parititoning and storage configuration is of **critical importance** and can be complex, unfortunately.  The Amahi team recommends following this [hard drive partitioning scheme](https://wiki.amahi.org/index.php/Hard_Drive_Partition_Scheme). 
-
+* Partitioning and storage configuration is of **critical importance** and can be complex, unfortunately.
+* The Amahi team **strongly recommends** following this [hard drive partitioning guide](https://wiki.amahi.org/index.php/Hard_Drive_Partition_Scheme) for best results with Amahi.
 
 # 3. Install
 

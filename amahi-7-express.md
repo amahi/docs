@@ -33,10 +33,8 @@ In this Amahi Express installation, the first available drive WILL BE COMPLETELY
 
 * <span class="label label-important">WARNING</span> It’s important to understand that in the Express Disc installation, the first available drive will be **completely erased** unless you change the default storage settings!
 
-  <a href="static/images/amahi-7-express/02-storage-details.png" class="fancybox centered"><img src="static/images/amahi-7-express/02-storage-details-thumb.png" alt="Installation destination specs" /></a>
-
-* Partitioning and storage configuration is of **critical importance** and can be complex, unfortunately.
-* The Amahi team **strongly recommends** following this [hard drive partitioning guide](https://wiki.amahi.org/index.php/Hard_Drive_Partition_Scheme) for best results with Amahi.
+* Partitioning and storage configuration is of **critical importance** and can be complex to many users.
+* The Amahi team **strongly recommends** following this [hard drive partitioning guide](https://wiki.amahi.org/index.php/Hard_Drive_Partition_Scheme) for best results.
 
 # 3. Install
 

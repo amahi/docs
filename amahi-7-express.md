@@ -39,6 +39,7 @@ In this Amahi Express installation, the first available drive WILL BE COMPLETELY
 # 3. Install
 
 * When your settings are ready, click _Begin Installation_
+* The installation will proceed in the background
 * Create a user and make it administrator (a root password is optional)
 
   <a href="static/images/amahi-7-express/06-create-user.png" class="fancybox centered"><img src="static/images/amahi-7-express/05-create-user-thumb.png" alt="Create a User" /></a>

@@ -14,7 +14,7 @@ These are the requirements to install your Amahi Server.
 	* 4GB Disk, and
 	* 512MB RAM (1GB+ recommended)
 	* The more CPU/Memory/Disk the better for you, of course! 
-	* One *wired* network interface. Wireless interfaces are not supported
+	* One *wired* network interface. Wireless interfaces are not supported in the server itself. Wireless networks are fully supported.
 
 	**NOTE about networking:** Please **disable all but the one** interface you will use. Only the first **Ethernet** device is supported. Amahi requires that you physically remove or disable (typically at the BIOS) any additional network interfaces except the one you plan to use permanently
 

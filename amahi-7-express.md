@@ -19,7 +19,7 @@ In this Amahi Express installation, the first available drive WILL BE COMPLETELY
 * If your system has more than one NIC (network interface), please disable **all but one** of them (usually in the BIOS)
 * Download the [Amahi 7 Express Disc](https://wiki.amahi.org/index.php/Express_CD) and burn it to a DVD
 * Boot your system from that DVD
-* If you do not have optical drive try the recipe in [the Amahi 7 from USB](https://wiki.amahi.org/index.php/Fedora_19_USB_install) page.
+* If you do not have optical drive try the recipe in the [install Amahi 7 from USB](https://wiki.amahi.org/index.php/Fedora_19_USB_install) page.
 
   <a href="static/images/amahi-7-express/00-boot.png" class="fancybox centered"><img src="static/images/amahi-7-express/00-boot-thumb.png" alt="Boot Amahi" /></a>
 

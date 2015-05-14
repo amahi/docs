@@ -12,7 +12,7 @@ These are the requirements to install your Amahi Server.
 
 	* 1GHz CPU
 	* 4GB Disk, and
-	* 512MB RAM (1GB+ recommended)
+	* 768MB RAM (1GB+ recommended, 512MB _may_ work with small workloads)
 	* The more CPU/Memory/Disk the better for you, of course! 
 	* One *wired* network interface. Wireless interfaces are not supported in the server itself. Wireless networks are fully supported.
 

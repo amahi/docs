@@ -1,3 +1,2 @@
-highlighter: true
 exclude: [Gemfile, vendor]
 markdown: kramdown

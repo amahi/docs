@@ -3,7 +3,6 @@ layout: homepage
 title: Install Amahi 7 Express Disc
 ---
 
-# 1. Important Notes
 
 # Important Note
 

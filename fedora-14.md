@@ -3,13 +3,11 @@ layout: homepage
 title: Install Fedora
 ---
 
-# Important Notes
+# Important Note
 
-<div class="alert alert-error">
-<strong>WARNING: This Amahi release is unsupported at this time! Please use a supported release!
-The latest release is [Amahi 8](amahi-8.html).
-</strong>
-</div>
+<span class="label label-important">WARNING</span>
+**This Amahi release is unsupported at this time! Please use a supported release!
+The latest release is a [Amahi 8](amahi-8.html).**
 
 # Install Fedora
 * Boot the installation machine from the Fedora installation DVD

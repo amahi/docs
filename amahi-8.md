@@ -31,8 +31,7 @@ Upgrading from Amahi 6 is not supported.
 
 We have tried a few [unsupported ways to install Amahi 8](https://wiki.amahi.org/index.php/Amahi_8_install_via_unsupported_methods). Only use them when all else fails.
 
-These include [USB install](https://wiki.amahi.org/index.php/USB_Install), [Workstation (DVD) Install](https://wiki.amahi.org/index.php/Fedora_21_Live_Workstation_Install) and [LXDE (CD) Install](https://wiki.amahi.org/index.php/Fedora_21_Live_LXDE_Install).
-
 # Videos on How to Install
 
 You can find some video screencasts on how to install and run Amahi at the [Amahi Videos](https://www.amahi.org/videos) page.
+These are relatively old (for previous releases of Amahi), but may give you ideas on the process.

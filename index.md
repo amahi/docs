@@ -8,6 +8,8 @@ Welcome to Amahi!
 
 We realize that installing is the hardest part of getting your Amahi server running.
 
-The latest stable release of Amahi is the **Amahi 9**, for 64-bit x86 systems.
+The latest stable release of Amahi is **Amahi 10**, for 64-bit x86 systems.
 
-<a class="btn btn-primary btn-large btn-success" href="amahi-9.html"><strong> Let's Get Started! &nbsp; &raquo; </strong></a>
+The minimum hardware requirements for this release are a 1+GHz PC with a 64-bit processor, 1GB System Memory, 10GB of drive space, internet connectivity (wired only), and as much extra storage as you want!
+
+<a class="btn btn-primary btn-large btn-success" href="amahi-10.html"><strong> Let's Get Started! &nbsp; &raquo; </strong></a>

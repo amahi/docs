@@ -10,11 +10,11 @@ These are the requirements to install your Amahi Server.
 
 	A computer with minimum required specs of
 
-	* 1GHz CPU
-	* 4GB Disk, and
-	* 768MB RAM (1GB+ recommended, 512MB _may_ work with small workloads)
+	* 1+GHz CPU, 64-bit only (no support for 32 bits)
+	* 10GB Disk, and
+	* 1+GB RAM
 	* The more CPU/Memory/Disk the better for you, of course! 
-	* One *wired* network interface. Wireless interfaces are not supported in the server itself. Wireless networks are fully supported.
+	* One *wired* network interface. Wireless interfaces are not supported in the server itself. Wireless networks in clients are fully supported.
 
 	**NOTE about networking:** Please **disable all but the one** interface you will use. Only the first **Ethernet** device is supported. Amahi requires that you physically remove or disable (typically at the BIOS) any additional network interfaces except the one you plan to use permanently
 

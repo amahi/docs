@@ -6,7 +6,7 @@ title: Install Fedora
 # Important Note
 
 <span class="label label-important">WARNING</span>
-**This Amahi release is unsupported at this time! Please use a supported release!
+**This Amahi release is unsupported at this time! Please use a supported release!**
 
 # Install Fedora
 * Boot the installation machine from the Fedora installation DVD

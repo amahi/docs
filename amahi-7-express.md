@@ -7,8 +7,7 @@ title: Install Amahi 7 Express Disc
 # Important Note
 
 <span class="label label-important">WARNING</span>
-**This Amahi release is unsupported at this time! Please use a supported release!
-The latest release is [Amahi 8](amahi-8.html).**
+**This Amahi release is unsupported at this time! Please use a supported release!**
 
 <span class="label label-important">WARNING</span>
 

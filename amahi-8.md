@@ -3,6 +3,11 @@ layout: homepage
 title: Install Amahi 8
 ---
 
+# Important Note
+
+<span class="label label-important">WARNING</span>
+**This Amahi release is unsupported at this time! Please use a supported release!
+
 Welcome to to the **Amahi 8** release!
 
 There are some ways to get Amahi 8 up and running. The best and recommended way is installing from scratch.

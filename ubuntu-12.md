@@ -7,7 +7,6 @@ title: Install Amahi on Ubuntu 12.04.2 LTS
 
 <span class="label label-important">WARNING</span>
 **This Amahi release is unsupported at this time! Please use a supported release!
-The latest release is [Amahi 8](amahi-8.html).**
 
 # 1. Install Ubuntu
 

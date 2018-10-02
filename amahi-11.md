@@ -15,7 +15,7 @@ Installing Amahi fresh is the recommended way to install. It requires the instal
 
 Only 64-bit systems are supported. We do not plan to support 32-bit systems in the future.
 
-Follow the [directions to install Amahi 11](https://wiki.amahi.org/index.php/Amahi_11).
+Follow the [directions to install Amahi 11](https://wiki.amahi.org/index.php/Amahi_11_Install).
 
 # Upgrading to Amahi 11
 
